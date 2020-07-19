@@ -1,2 +1,8 @@
 click_data_train_sample.csv
 \.ipynb_checkpoints
+.idea
+
+venv
+*.out
+*.libsvm
+*.bin
