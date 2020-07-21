@@ -1,1 +1,1 @@
-"# click_predicion" 
+click_predicion
