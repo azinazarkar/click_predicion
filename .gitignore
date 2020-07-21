@@ -1,7 +1,14 @@
 click_data_train_sample.csv
 \.ipynb_checkpoints
+
 xgboost.ipynb
 python-ffm
 click_data_train_sample_2.csv
 rec77.ipynb
-train_features
+
+.idea
+
+venv
+*.out
+*.libsvm
+*.bin
