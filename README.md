@@ -19,7 +19,7 @@ Note: due to limitation of xlearn lib compiling, you need to run ubuntu in order
 
 
 #### Resources:
-1. outbrain ctr prediction
+1. Outbrain CTR prediction contest. [(link)](https://www.kaggle.com/c/outbrain-click-prediction)
 
 2. Dr. Talebpour course materials of Data mining 2020 class, Shaid Beheshti University 
 
